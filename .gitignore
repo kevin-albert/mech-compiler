@@ -5,3 +5,4 @@ scanner.cpp
 scanner.cpp.messy
 grammar.cpp
 grammar.h
+grammar.output
